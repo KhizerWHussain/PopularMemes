@@ -1,0 +1,23 @@
+.loading-spinner {
+    width: 10rem;
+    height: 10rem;
+    border: 0.75rem solid lawngreen;
+    border-top: 0.75rem solid black;
+    border-radius: 50%;
+    animation: spinner 2s linear infinite;
+}
+
+@keyframes spinner {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.spinner-container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+}
