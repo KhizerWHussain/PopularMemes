@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PopularMemes/static/css/main.9a6d2e93.css",
+    "main.js": "/PopularMemes/static/js/main.d9c4bddd.js",
+    "index.html": "/PopularMemes/index.html",
+    "main.9a6d2e93.css.map": "/PopularMemes/static/css/main.9a6d2e93.css.map",
+    "main.d9c4bddd.js.map": "/PopularMemes/static/js/main.d9c4bddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a6d2e93.css",
+    "static/js/main.d9c4bddd.js"
+  ]
+}
